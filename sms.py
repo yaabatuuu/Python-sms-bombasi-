@@ -99,7 +99,7 @@ class SendSms():
         except:
             print(f"{Fore.LIGHTRED_EX}Made By Muslukcu | [-] {Style.RESET_ALL}Başarısız! {self.phone} --> api.naosstars.com")
 
-
+#instagram yaabatuuuu
     #bim
     def Bim(self):
         try:
